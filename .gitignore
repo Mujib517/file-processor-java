@@ -1,0 +1,9 @@
+.idea
+.vscode
+.gradle
+
+.DS_Store
+
+build
+chunks
+output
